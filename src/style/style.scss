@@ -18,8 +18,10 @@ body {
 
 a {
 	color: hsl(0, 0%, 100%);
-
+	text-decoration: none;
+	
 	&:hover, &:focus {
 		color: hsl(0, 0%, 100%);
+		text-decoration: underline;
 	}
 }
