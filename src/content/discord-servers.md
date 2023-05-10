@@ -11,8 +11,7 @@ Discord es una plataforma de chat en línea popular entre la comunidad de gamers
 - CodingRoot: https://discord.gg/codingroot-informatica-y-programacion-790679139673571328
 - Monas Chinas Programadoras: https://discord.gg/CtGKbbp9dn
 - Code Cave: https://discord.gg/T5xFfrdqxn
-
-
+<br><br>
 Estos son solo algunos de mis servidores de Discord favoritos. Hay muchos más servidores disponibles en Discord, cada uno con su propia comunidad y enfoque. Si aún no has probado Discord o estás buscando nuevos servidores para unirte, te recomiendo probar algunos de estos servidores para conectar con personas afines y tener una gran experiencia en línea.
 
 Saludos.
