@@ -2,15 +2,13 @@
 	import "../../style/style.scss"
 	import Top from "@components/Top";
 	import Bottom from "@components/Bottom";
-	import Favicon from "../../public/pic.png"
-	import PlaceHolder from "../../public/placeholder-social.png"
 	const {title} = Astro.props;
 ---
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
-	<link rel="icon" type="image/png" href={Favicon}>
+	<link rel="icon" type="image/png" href="/public/pic.png">
 	<!-- Primary Meta Tags -->
 	<title>{title}</title>
 	<meta name="title" content={title}>
@@ -21,14 +19,14 @@
 	<meta property="og:url" content="https://zjairo.com">
 	<meta property="og:title" content={title}>
 	<meta property="og:description" content="私の彼女は私がハッカーでプログラマーだと言っています。私は25歳で、コーヒー、UNIXシステム、そして健康的な活動が大好きです">
-	<meta property="og:image" content={PlaceHolder}>
+	<meta property="og:image" content="/public/placeholder-social.png">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
 	<meta property="twitter:url" content="https://zjairo.com/">
 	<meta property="twitter:title" content={title}>
 	<meta property="twitter:description" content="私の彼女は私がハッカーでプログラマーだと言っています。私は25歳で、コーヒー、UNIXシステム、そして健康的な活動が大好きです">
-	<meta property="twitter:image" content={PlaceHolder}>
+	<meta property="twitter:image" content="/public/placeholder-social.png">
 </head>
 <body>
 	<div class="main">
