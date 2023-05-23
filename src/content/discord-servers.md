@@ -1,5 +1,5 @@
 ---
-title: Servidores de discord
+title: Discord servers
 date: 2022-05-10
 preview: Discord es una plataforma de chat en línea popular entre la comunidad de gamers, creadores de contenido, y muchos otros grupos. Hay una gran cantidad de servidores de Discord enfocados en diferentes temas, desde juegos hasta arte, y todo lo demás.
 ---
